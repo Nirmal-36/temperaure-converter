@@ -44,4 +44,15 @@ python temp_app.py
 ## Files
 
 - `temp_app.py` - Main application file
-- `temp_app.css` - Styling for the terminal interface 
+- `temp_app.css` - Styling for the terminal interface
+
+## Output Screenshots
+
+**Celsius to Fahrenheit**
+<img width="1041" alt="Screenshot 2025-06-22 at 13 55 55" src="https://github.com/user-attachments/assets/97aa6853-f019-4025-b801-a1c4c7300eee" />
+
+**Fahrenheit to Celsius**
+<img width="1041" alt="Screenshot 2025-06-22 at 13 59 08" src="https://github.com/user-attachments/assets/377d044c-9b64-4470-b450-f74507d0fba1" />
+
+
+
